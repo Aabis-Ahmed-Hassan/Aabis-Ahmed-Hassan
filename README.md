@@ -1,4 +1,4 @@
-📚 Technologies I'm mastering: Flutter<br>
+📚 Technology I'm mastering: Flutter<br>
 🌍 Where I'm from: Rawalpindi, Pakistan<br>
 💬 Ask me anything about Flutter<br>
 📫 How to reach me: aabisahmedhassan3@gmail.com<br> 
