@@ -2,7 +2,6 @@
 🌍 Where I'm from: Rawalpindi, Pakistan<br>
 💬 Ask me anything about Flutter<br>
 📫 How to reach me: aabisahmedhassan3@gmail.com<br> 
-😄 My website: https://webnomatics.com/<br>
 🤝 Open to collaboration: I'm open for hiring.<br>
 
 <!---
